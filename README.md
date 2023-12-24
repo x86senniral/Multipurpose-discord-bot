@@ -1,2 +1,2 @@
-# moderation-bot
-A simple discord moderation bot template. v14.
+# Main Branch
+
