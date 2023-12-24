@@ -1,6 +1,8 @@
 # Economy + Moderation Branch
 - Kick, Ban, Mute (Must have a role named "Muted"), Help, ping commands.
 - Work, Gamble, Rob, Balance, AFK, Leaderboard commands.
+
+- Important: Some commands do not currently have a cooldown function, meaning it may be abused, feel free to add a cooldown command if you'd like.
 -------------------
 ## Installation
 - Simply `git clone https://github.com/vahshellus/Multipurpose-discord-bot.git`
