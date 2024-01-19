@@ -35,13 +35,22 @@ NOTE: if the user tries to perform operations that are registered as banned, the
 # PROOF OF HOW IT CAN BE POSSIBLY EXPLOITED
 IF you're hosting your bot in a cloud platform, for example the subprocess module can easily be used to access files. 
 User input:
+
 ![image](https://github.com/sytaxus/Multipurpose-discord-bot/assets/60050784/b3316b27-f036-4a6d-94d4-ddf2d4133520)
+
 Bot outputed:
+
 ![image](https://github.com/sytaxus/Multipurpose-discord-bot/assets/60050784/a853a90a-26e2-44b9-be91-a5ecf42178cd)
+
 User Input #2:
+
 ![image](https://github.com/sytaxus/Multipurpose-discord-bot/assets/60050784/1248fa71-9477-469c-b2aa-26a8f3fadddc)
+
 Bot Output #2: 
+
 ![image](https://github.com/sytaxus/Multipurpose-discord-bot/assets/60050784/895da4b3-9458-4174-91ee-28552fb5e77e)
+
+
 And as you can see, through this a simple subprocess.Popen('cat <filename>', shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT) can be used, and not only the source code will then be leaked but additionally threat actors can gain access to your bot token.
 
 # OPTIONAL
