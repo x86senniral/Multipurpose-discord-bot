@@ -18,6 +18,15 @@ print("test")```
 !python```
 print("Greetings!")```
 ```
+User:
+
+![image](https://github.com/sytaxus/Multipurpose-discord-bot/assets/60050784/91d657de-4406-46cd-8838-06711011542d)
+
+Bot:
+
+![image](https://github.com/sytaxus/Multipurpose-discord-bot/assets/60050784/8b6fb300-52cc-4e6d-8196-6d07fbda7520)
+
+
 
 # BANNED FUNCTIONS AND LIBRARIES.
 Due to security reasons the following is disabled:
