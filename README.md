@@ -1,14 +1,13 @@
-# Moderation Branch
-- Kick, Ban, Mute (Must have a role named "Muted"), Help, ping commands.
--------------------
-## Installation
-- Simply `git clone https://github.com/vahshellus/Multipurpose-discord-bot.git`
-- `npm install` For all required dependencies.
-- Replace your client ID and Token in the .env OR if you do not wish to use a .env simply replace the `process.env.TOKEN` and `process.env.CLIENT_ID` with your bot's token and bot id.
-- Finally: `node .` to run the project.
+# Python Compiler Branch
+- Allows you to perform python operations through a discord bot.
 
-## Requirements
-- NodeJS and Discord.JS v14
 
-## NOTES
-There are several branches on this repo. The `main` Branch is the `moderation` branch with basic moderation commands. Other branches such as `economy` consist of economy commands using the mongodb database.
+# USE
+![image](https://github.com/sytaxus/Multipurpose-discord-bot/assets/60050784/3e57ec0b-090e-4cb2-b6f7-e434bce1cf52)
+- The use must be very specific, identation also matters as well. Treat it the same way you would put your code in your IDE.
+- Example:
+```
+!python```
+print("Greetings!")
+```
+```
