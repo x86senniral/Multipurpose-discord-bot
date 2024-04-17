@@ -45,5 +45,5 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-
+// Retrieves Token in ENV file.
 client.login(process.env.TOKEN);
